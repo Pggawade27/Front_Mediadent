@@ -1,6 +1,6 @@
-### project name - Mediadent
+# project name - Mediadent
 
-# functionality -
+### functionality -
 
 Classifieds Section: Allow students to buy, sell, or exchange textbooks, study materials, and other educational
 resources within their community.
